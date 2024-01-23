@@ -1,9 +1,28 @@
-<h1 align="center">Hi 👋, I'm Awal Hossain</h1>
-<h3 align="center">A full-Stack Web devloper who always seeks an opportunity to apply the learning in the real world</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awalhossain&label=Profile%20views&color=0e75b6&style=flat" alt="awalhossain" /> </p>
 
 
+
+# Hi 👋 I am Awal.
+
+I lead Developer Relations (DevRel) for GitHub in some of our international markets, including India and LATAM. I am on a mission to help every developer be a part of the open source ecosystem and grow their software development skills through the power of GitHub.
+
+## The developer side of me
+
+<img src="karanoctocat.png" align="left" height="200">
+
+Javascript 🐍 is my first love 💙. I also write in Typescript. 
+
+Learning DevOps and other JS frameworks 📖
+
+NodeJs and ReactJs are my superpowers 🦾
+
+Cloud, containers is where I go deep 🕵️
+
+You can find me in action with GitHub Actions :octocat:
+
+<br/>
+
+ ## Developing
+<img src="https://octodex.github.com/images/gangnamtocat.png" align="left" height="150">
 
 - 🔭 I’m currently working on [Mern Video Streaming Project](https://github.com/AwalHossain/Video_Streaming_With_MERN)
 
@@ -11,12 +30,21 @@
 
 - 💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/awalhosssaimn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/awalhosssaimn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/awal-hossain-0bb650108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/awal-hossain-0bb650108/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/awalhossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/awalhossain/" height="30" width="40" /></a>
-</p>
+## Connect with me
+
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="left" height="150">
+
+<br/>
+
+[![Twitter][1.1]][1.2]
+
+[1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[1.2]: https://twitter.com/mvkaran
+
+[![LinkedIn][2.1]][2.2]
+
+[2.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[2.2]: https://linkedin.com/in/mvkaran
 
 
 
