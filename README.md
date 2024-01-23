@@ -7,7 +7,7 @@ I lead Developer Relations (DevRel) for GitHub in some of our international mark
 
 ## The developer side of me
 
-<img src="[karanoctocat.png](https://octodex.github.com/images/catstello.png)" align="left" height="200">
+<img src="https://octodex.github.com/images/catstello.png" align="left" height="200">
 
 Javascript 🐍 is my first love 💙. I also write in Typescript. 
 
