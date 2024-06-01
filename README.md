@@ -1,7 +1,7 @@
 
-# Hi 👋 I am Awal.
+# Greetings 👋 From a Full-Stack Developer Awal.
 
-Greetings! I'm Awal Hossain, a seasoned Full Stack Web Developer with a passion for innovation and problem-solving. My expertise lies in building robust MERN stack applications and crafting engaging user interfaces. I'm currently seeking new opportunities to bring my skills to a forward-thinking team.
+As an experienced full-stack developer, I always consider the worst possible outcome, which allows me to mitigate potential issues and this approach helps me minimize potential problems and transform them into more positive outcomes. My expertise lies in building robust MERN stack applications and crafting engaging user interfaces. I'm currently seeking new opportunities to bring my skills to a forward-thinking team.
 
 ## The developer side of me
 <table   border="0" align="center" style="margin-top: 50px; margin-bottom: 50px;">
@@ -12,7 +12,7 @@ Greetings! I'm Awal Hossain, a seasoned Full Stack Web Developer with a passion 
     </tr>
     <tr>
         <td align="center">
-            Javascript 🐍 is my first love 💙. I also write in Typescript.
+            Javascript 🇯‌🇸‌ is my first love 💙. I also write in Typescript.
         </td>
     </tr>
     <tr>
@@ -52,7 +52,7 @@ Greetings! I'm Awal Hossain, a seasoned Full Stack Web Developer with a passion 
     </tr>
     <tr>
         <td align="center">
-            👨‍💻 All of my projects are available at <a href="https://awal-portfolio.web.app/">https://awal-portfolio.web.app/</a>
+            👨‍💻 All of my projects are available at <a href="https://awalhossain.tech/">https://awalhossain.tech</a>
         </td>
     </tr>
     <tr>
@@ -76,9 +76,9 @@ Greetings! I'm Awal Hossain, a seasoned Full Stack Web Developer with a passion 
                 <a href="https://www.linkedin.com/in/awal-hossain-0bb650108/">
                     <img src="https://img.shields.io/twitter/follow/Awal?style=social&logo=linkedin&labelColor=blue" alt="LinkedIn" height="30">
                 </a>
-                <a href="https://twitter.com/mvkaran">
+<!--                 <a href="https://twitter.com/mvkaran">
                     <img src="https://img.shields.io/twitter/follow/Awal?style=social&logo=X&labelColor=blue" alt="Twitter" height="30">
-                </a>
+                </a> -->
             </div>
         </td>
     </tr>
